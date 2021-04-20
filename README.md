@@ -1,0 +1,3 @@
+# SettingsLib
+这个是Setting中的类库SettingLib,location:fram/base/package/SettingLib
+对于其中的一些框架或者是函数方法的进行详细解析
